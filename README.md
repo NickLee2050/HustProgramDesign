@@ -26,7 +26,7 @@
 
 #### 	Ver_3.1 UIP in CDCL
 
- 			UIP means Unique Implication Point. In the Implication Graph, this point must satisfy:
+UIP means Unique Implication Point. In the Implication Graph, this point must satisfy:
 
 ​				1) In current decision level;
 
