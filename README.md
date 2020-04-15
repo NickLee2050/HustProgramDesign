@@ -2,7 +2,7 @@
 
 ​		Program Design affiliated to General Curriculum Design of CSE College, HUST for students enrolled in 2018.
 
-​		This is one possible solution for the Binary Sudoku Design. Currently we uploaded our codes of core algorithms. 
+​		This is one possible solution for the Binary Sudoku Design. Currently we uploaded our codes of core algorithms to Ver_3.0 
 
 ## Version Comment
 
