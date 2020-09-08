@@ -204,9 +204,9 @@ void MainWindow::trigerMenu(QAction *act)
     if (act->text() == "About")
     {
         QMessageBox::information(NULL, "HUST Program Design", "Binary Sudoku Game with DPLL\n\n"
-                                                              "Author:\tShuhan Li\t\n"
-                                                              "Class:\tCSEE1801\t\n"
-                                                              "ID:\tU201814469\t\n",
+                                                              "Author:\t********\t\n"
+                                                              "Class:\t********\t\n"
+                                                              "ID:\t********\t\n",
                                  QMessageBox::Yes, QMessageBox::Yes);
     }
 }
